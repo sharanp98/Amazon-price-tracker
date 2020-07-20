@@ -1,6 +1,6 @@
 # Amazon-price-tracker
 A web scraper that sends a mail when the price of a product falls below the required price.
-
+Technology used : Python, BeautifulSoup,Argparse
 The file has been tested and works for all URLs on the Amazon.in website
 
 Prerequisites: Requests and BeautifulSoup modules
